@@ -169,6 +169,5 @@ public class AnimalProgram {
 // When the user selects the "Teach an animal a new command" option, the program presents a list of all animals
 // and allows the user to select an animal to teach. If the selected animal is teachable, the user can enter a
 // new command to teach the animal, which is then added to the animal's list of commands.
-// I hope this helps! Let me know if you have any further questions.
 
 
